@@ -1,6 +1,9 @@
+The custom coroutine class can be found in the header file Coroutine.h, in the folder CustomCoroutine_Inc_Lib
+
 CustomCoroProfiler: contains the project which profiles the custom coroutine
 
 CustomCoroutine_Inc_Lib: contains the necessary header files and lib files which need to be
  included inside a project to use the custom coroutine
 
-ResultProject: the project which is shown in the presentation
+ResultProject: the project which is shown in the presentation. Contains a couple of test cases
+where the custom coroutine library is tested.
